@@ -1,4 +1,4 @@
-# Desafios Codility - Codility Challenges - Desafíos Codility
+# Desafios Codility
 
 - [PORTUGUES](https://github.com/AguiarVicente/Codility/blob/main/Portugues.md)
 - [INGLISH](https://github.com/AguiarVicente/Codility/blob/main/Ingles.md)
