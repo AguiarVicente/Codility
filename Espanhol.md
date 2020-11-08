@@ -1,10 +1,29 @@
 # Desafíos de la codilidad
 
-- [portugués]()
-- [Inglés]()
-- [Español]()
+- [PORTUGUES](https://github.com/AguiarVicente/Codility/blob/main/Portugues.md)
+- [INGLISH](https://github.com/AguiarVicente/Codility/blob/main/Ingles.md)
+- [SPANISH](https://github.com/AguiarVicente/Codility/blob/main/Espanhol.md)
 
-### Lección 1
+## Lección 1
 
-- __Encuentra la secuencia más larga de ceros en la representación binaria de un entero.__
-- [BinaryGap]()
+__Encuentra la secuencia más larga de ceros en la representación binaria de un entero.__
+
+- [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
+
+Un espacio binario dentro de un entero positivo N es cualquier secuencia máxima de ceros consecutivos rodeada por unos en ambos extremos en la representación binaria de N.
+
+Por ejemplo, el número 9 tiene representación binaria 1001 y contiene un espacio binario de longitud 2. El número 529 tiene representación binaria 1000010001 y contiene dos espacios binarios: uno de longitud 4 y uno de longitud 3. El número 20 tiene representación binaria 10100 y contiene un espacio binario de longitud 1. El número 15 tiene representación binaria 1111 y no tiene espacios binarios. El número 32 tiene una representación binaria 100000 y no tiene espacios binarios.
+
+Escribe una función:
+
+```js
+function solution(N);
+```
+
+que, dado un entero positivo N, devuelve la longitud de su espacio binario más largo. La función debería devolver 0 si N no contiene un espacio binario.
+
+Por ejemplo, dado N = 1041, la función debería devolver 5, porque N tiene representación binaria 10000010001 y, por lo tanto, su espacio binario más largo es de longitud 5. Dado N = 32, la función debería devolver 0, porque N tiene representación binaria '100000' y, por lo tanto, en los huecos binarios.
+
+Escriba un algoritmo eficiente para las siguientes suposiciones:
+
+No es un número entero dentro del rango [1..2,147,483,647].
