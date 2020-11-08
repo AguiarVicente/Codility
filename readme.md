@@ -8,3 +8,7 @@
 __Encontrar a sequência mais longa de zeros na representação binária de um inteiro.__
 
 - [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
+
+### Lição 2
+__Gire uma matriz para a direita por um determinado número de etapas.__
+- [CyclicRotation](https://github.com/AguiarVicente/Codility/blob/main/CyclicRotation.js)
