@@ -8,6 +8,6 @@ function solution(A, K){
     }
     return result
 }
-console.log(solution([3, 8, 9, 7, 6], 1))
-console.log(solution([6, 3, 8, 9, 7], 1))
-console.log(solution([7, 6, 3, 8, 9], 1))
+console.log(solution([3, 8, 9, 7, 6], 1)) //[ 6, 3, 8, 9, 7 ]
+console.log(solution([6, 3, 8, 9, 7], 1)) //[ 7, 6, 3, 8, 9 ]
+console.log(solution([7, 6, 3, 8, 9], 1)) //[ 9, 7, 6, 3, 8 ]
