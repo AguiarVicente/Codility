@@ -6,7 +6,7 @@
 
 ### Lição 1
 __Encontrar a sequência mais longa de zeros na representação binária de um inteiro.__
-	 - [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
+- [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
 
 Uma lacuna binária dentro de um número inteiro positivo N é qualquer sequência máxima de zeros consecutivos que é cercada por uns em ambas as extremidades na representação binária de N.
 

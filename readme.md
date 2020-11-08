@@ -5,5 +5,6 @@
 - [SPANISH](https://github.com/AguiarVicente/Codility/blob/main/Espanhol.md)
 
 ### Lição 1
-- __Encontrar a sequência mais longa de zeros na representação binária de um inteiro.__
-	 - [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
+__Encontrar a sequência mais longa de zeros na representação binária de um inteiro.__
+
+- [BinaryGap](https://github.com/AguiarVicente/Codility/blob/main/BinaryGap.js)
